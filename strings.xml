@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SG</string>
+    <string name="accessibility_description">Detects selected distracting apps and content labels so SG can apply your locally configured focus rules. Text is processed on-device.</string>
+</resources>
